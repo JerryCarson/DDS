@@ -1,0 +1,73 @@
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=C?(CAP 0603_1608)
+Added Component: Designator=D?(USB)
+Added Component: Designator=D?(ch340g)
+Added Component: Designator=D?(LQFP-48)
+Added Component: Designator=FU?(FUSE)
+Added Component: Designator=R?(R_0805_T0.4)
+Added Component: Designator=R?(R_0805_T0.4)
+Added Component: Designator=R?(R_0805_T0.4)
+Added Component: Designator=R?(R_0805_T0.4)
+Added Pin To Net: NetName=+3.3Â.1 Pin=C?-2
+Added Pin To Net: NetName=+3.3Â.1 Pin=C?-2
+Added Pin To Net: NetName=+3.3Â.1 Pin=C?-2
+Added Pin To Net: NetName=+3.3Â.1 Pin=C?-2
+Added Pin To Net: NetName=+3.3Â.1 Pin=D?-2
+Added Pin To Net: NetName=+3.3Â.1 Pin=D?-4
+Added Pin To Net: NetName=+3.3Â.1 Pin=D?-4
+Added Pin To Net: NetName=+3.3Â.1 Pin=D?-16
+Added Pin To Net: NetName=+3.3Â.1 Pin=R?-1
+Added Pin To Net: NetName=+3.3Â.1 Pin=R?-2
+Added Pin To Net: NetName=+3.3Â.1 Pin=R?-2
+Added Net: Name=+3.3Â.1
+Added Pin To Net: NetName=+5Â.1 Pin=C?-2
+Added Pin To Net: NetName=+5Â.1 Pin=D?-3
+Added Pin To Net: NetName=+5Â.1 Pin=FU?-2
+Added Net: Name=+5Â.1
+Added Pin To Net: NetName=FPGA_RES Pin=D?-26
+Added Net: Name=FPGA_RES
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-5
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=FU?-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-6
+Added Net: Name=NetD?_2
+Add Net: Net with name "NetD?_2" already exists
+Added Pin To Net: NetName=NetD?_3 Pin=D?-3
+Added Pin To Net: NetName=NetD?_3 Pin=D?-5
+Added Net: Name=NetD?_3
+Added Pin To Net: NetName=RX.1 Pin=D?-3
+Added Pin To Net: NetName=RX.1 Pin=D?-31
+Added Pin To Net: NetName=RX.1 Pin=R?-1
+Added Net: Name=RX.1
+Added Pin To Net: NetName=TX.1 Pin=D?-30
+Added Pin To Net: NetName=TX.1 Pin=R?-2
+Added Net: Name=TX.1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
