@@ -1,0 +1,108 @@
+Added Component: Designator=C1(CAP 0603_1608)
+Added Component: Designator=C2(CAP 0603_1608)
+Added Component: Designator=C3(CAP 0603_1608)
+Added Component: Designator=C4(CAP 0603_1608)
+Added Component: Designator=C5(CAP 0603_1608)
+Added Component: Designator=C6(CAP 0603_1608)
+Added Component: Designator=C7(CAP 0603_1608)
+Added Component: Designator=C8(CAP 0603_1608)
+Added Component: Designator=C9(CAP 0603_1608)
+Added Component: Designator=D1(USB)
+Added Component: Designator=D2(AMS1117)
+Added Component: Designator=D3(ch340g)
+Added Component: Designator=D4(LQFP-48)
+Added Component: Designator=FU1(FUSE)
+Added Component: Designator=R1(R_0805_T0.4)
+Added Component: Designator=R2(R_0805_T0.4)
+Added Component: Designator=R3(R_0805_T0.4)
+Added Component: Designator=R4(R_0805_T0.4)
+Added Component: Designator=X1(QUARTZ TEMPORARY)
+Added Component: Designator=X2(QUARTZ TEMPORARY)
+Added Pin To Net: NetName=+3.3В.1 Pin=C4-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C5-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C6-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C7-2
+Added Pin To Net: NetName=+3.3В.1 Pin=D2-2
+Added Pin To Net: NetName=+3.3В.1 Pin=D2-4
+Added Pin To Net: NetName=+3.3В.1 Pin=D3-4
+Added Pin To Net: NetName=+3.3В.1 Pin=D3-16
+Added Pin To Net: NetName=+3.3В.1 Pin=R2-2
+Added Pin To Net: NetName=+3.3В.1 Pin=R3-2
+Added Pin To Net: NetName=+3.3В.1 Pin=R4-1
+Added Net: Name=+3.3В.1
+Added Pin To Net: NetName=+5В.1 Pin=C1-2
+Added Pin To Net: NetName=+5В.1 Pin=D2-3
+Added Pin To Net: NetName=+5В.1 Pin=FU1-2
+Added Net: Name=+5В.1
+Added Pin To Net: NetName=FPGA_RES Pin=D4-26
+Added Net: Name=FPGA_RES
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D3-7
+Added Pin To Net: NetName=NetC2_1 Pin=X1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D3-8
+Added Pin To Net: NetName=NetC3_1 Pin=X1-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=D4-5
+Added Pin To Net: NetName=NetC8_1 Pin=X2-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=D4-6
+Added Pin To Net: NetName=NetC9_1 Pin=X2-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=FU1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-6
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=D3-5
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R1-1
+Added Pin To Net: NetName=NetD3_2 Pin=R2-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=RX.1 Pin=D3-3
+Added Pin To Net: NetName=RX.1 Pin=D4-31
+Added Pin To Net: NetName=RX.1 Pin=R3-1
+Added Net: Name=RX.1
+Added Pin To Net: NetName=TX.1 Pin=D4-30
+Added Pin To Net: NetName=TX.1 Pin=R1-2
+Added Net: Name=TX.1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C6 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C8 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C9 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component D1 USB
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component FU1 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component X1 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component X2 Обозначение при заказе
+Added Room: Name=Sheet1

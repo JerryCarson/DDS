@@ -53,7 +53,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1047,7 +1047,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 ReplaceSubparts=0
 MatchParameter1=Comment
@@ -1141,6 +1141,26 @@ ParameterName2=Description
 ParameterUpdate2=1
 ParameterName3=Library Reference
 ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CAP 0603_1608
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=ch340g
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=FUSE
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=LQFP-48
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=R_0805_T0.4
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=USB
+ModelUpdate5=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
