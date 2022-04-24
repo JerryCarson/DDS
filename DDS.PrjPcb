@@ -64,6 +64,40 @@ GenerateClassCluster=0
 DocumentUniqueId=IFQORJAY
 
 [Document2]
+DocumentPath=EPM240T100C5N\SnapEDAsch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
+
+[Document3]
+DocumentPath=EPM240T100C5N\EPM240T100C5N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document4]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSBDWLFM
 
-[Document3]
+[Document5]
 DocumentPath=RESISTORS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPPQYBLA
 
-[Document4]
+[Document6]
 DocumentPath=FUSE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPPQYBLA
 
-[Document5]
+[Document7]
 DocumentPath=MICROCIRCUITS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOBYEQWF
 
-[Document6]
+[Document8]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

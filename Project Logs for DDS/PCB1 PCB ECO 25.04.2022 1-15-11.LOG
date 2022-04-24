@@ -1,0 +1,45 @@
+Added Component: Designator=D?(QFP50P1600X1600X120-100N)
+Added Pin To Net: NetName=A0 Pin=D4-22
+Added Pin To Net: NetName=A0 Pin=D?-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=D4-21
+Added Pin To Net: NetName=A1 Pin=D?-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=D4-46
+Added Pin To Net: NetName=A2 Pin=D?-3
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=D4-45
+Added Pin To Net: NetName=A3 Pin=D?-4
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=D4-43
+Added Pin To Net: NetName=A4 Pin=D?-5
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=D4-42
+Added Pin To Net: NetName=A5 Pin=D?-6
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=D4-41
+Added Pin To Net: NetName=A6 Pin=D?-7
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=D4-40
+Added Pin To Net: NetName=A7 Pin=D?-8
+Added Net: Name=A7
+Added Pin To Net: NetName=A8 Pin=D4-39
+Added Pin To Net: NetName=A8 Pin=D?-9
+Added Net: Name=A8
+Added Pin To Net: NetName=A9 Pin=D4-20
+Added Pin To Net: NetName=A9 Pin=D?-20
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=D4-19
+Added Pin To Net: NetName=A10 Pin=D?-24
+Added Net: Name=A10
+Added Pin To Net: NetName=A11 Pin=D4-26
+Added Pin To Net: NetName=A11 Pin=D?-43
+Added Net: Name=A11
+Added Pin To Net: NetName=A12 Pin=D4-18
+Added Pin To Net: NetName=A12 Pin=D?-44
+Added Net: Name=A12
+Added Class: Name=A[12..0]
+Added Member To Class: ClassName=Sheet1 Member=Component D? Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Обозначение при заказе
+Added Room: Name=Sheet1
