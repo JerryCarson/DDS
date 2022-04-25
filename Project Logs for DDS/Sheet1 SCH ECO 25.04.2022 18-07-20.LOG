@@ -1,0 +1,15 @@
+Remove Pin=D5-27 From Net=A
+Change Pin Designator/Name:  Old Designator=D5-7 Old Name=d[3] New Designator =bank New Name=26
+Change Pin Designator/Name:  Old Designator=D5-8 Old Name=d[4] New Designator =cs New Name=21
+Change Pin Designator/Name:  Old Designator=D5-15 Old Name=d[5] New Designator =a[2] New Name=20
+Change Pin Designator/Name:  Old Designator=D5-16 Old Name=d[6] New Designator =a[1] New Name=19
+Change Pin Designator/Name:  Old Designator=D5-17 Old Name=d[7] New Designator =a[0] New Name=18
+Change Pin Designator/Name:  Old Designator=D5-18 Old Name=a[0] New Designator =d[5] New Name=15
+Change Pin Designator/Name:  Old Designator=D5-19 Old Name=a[1] New Designator =d[4] New Name=8
+Change Pin Designator/Name:  Old Designator=D5-20 Old Name=a[2] New Designator =d[3] New Name=7
+Change Pin Designator/Name:  Old Designator=D5-21 Old Name=cs New Designator =d[7] New Name=17
+Change Pin Designator/Name:  Old Designator=D5-26 Old Name=bank New Designator =d[6] New Name=16
+Change Pin Designator/Name:  Old Designator=D5-28 Old Name=sw New Designator =d[1] New Name=30
+Change Pin Designator/Name:  Old Designator=D5-29 Old Name=d[2] New Designator =reset New Name=27
+Change Pin Designator/Name:  Old Designator=D5-30 Old Name=d[1] New Designator =sw New Name=28
+Change Pin Designator/Name:  Old Designator=D5-33 Old Name=d[0] New Designator =d[2] New Name=29

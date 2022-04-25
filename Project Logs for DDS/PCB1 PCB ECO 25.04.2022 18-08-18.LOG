@@ -1,0 +1,47 @@
+Added Component: Designator=D5(QFP50P1600X1600X120-100N)
+Added Pin To Net: NetName=A0 Pin=D5-1
+Added Pin To Net: NetName=A1 Pin=D5-2
+Added Pin To Net: NetName=A2 Pin=D5-3
+Added Pin To Net: NetName=A3 Pin=D5-4
+Added Pin To Net: NetName=A4 Pin=D5-5
+Added Pin To Net: NetName=A5 Pin=D5-6
+Added Pin To Net: NetName=A6 Pin=D5-7
+Added Pin To Net: NetName=A7 Pin=D5-8
+Added Pin To Net: NetName=A8 Pin=D5-15
+Added Pin To Net: NetName=A9 Pin=D5-16
+Added Pin To Net: NetName=A10 Pin=D5-17
+Added Pin To Net: NetName=B0 Pin=D5-18
+Added Pin To Net: NetName=B1 Pin=D5-19
+Added Pin To Net: NetName=B2 Pin=D5-20
+Added Pin To Net: NetName=B3 Pin=D5-21
+Added Pin To Net: NetName=B4 Pin=D5-26
+Added Pin To Net: NetName=B5 Pin=D5-27
+Added Pin To Net: NetName=B6 Pin=D5-28
+Added Pin To Net: NetName=B7 Pin=D5-29
+Added Pin To Net: NetName=A12 Pin=D5-30
+Added Pin To Net: NetName=C0 Pin=D5-47
+Added Pin To Net: NetName=M0 Pin=D5-48
+Added Pin To Net: NetName=M2 Pin=D5-49
+Added Pin To Net: NetName=M3 Pin=D5-50
+Added Pin To Net: NetName=C1 Pin=D5-51
+Added Pin To Net: NetName=C2 Pin=D5-52
+Added Pin To Net: NetName=C3 Pin=D5-53
+Added Pin To Net: NetName=C4 Pin=D5-54
+Added Pin To Net: NetName=C5 Pin=D5-55
+Added Pin To Net: NetName=C6 Pin=D5-56
+Added Pin To Net: NetName=C7 Pin=D5-57
+Added Pin To Net: NetName=C8 Pin=D5-58
+Added Pin To Net: NetName=C9 Pin=D5-61
+Added Pin To Net: NetName=D0 Pin=D5-66
+Added Pin To Net: NetName=D1 Pin=D5-67
+Added Pin To Net: NetName=D2 Pin=D5-68
+Added Pin To Net: NetName=D3 Pin=D5-69
+Added Pin To Net: NetName=D4 Pin=D5-70
+Added Pin To Net: NetName=D5 Pin=D5-71
+Added Pin To Net: NetName=D6 Pin=D5-72
+Added Pin To Net: NetName=D7 Pin=D5-73
+Added Pin To Net: NetName=M1 Pin=D5-74
+Added Pin To Net: NetName=M4 Pin=D5-75
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component D5 Обозначение при заказе
+Added Room: Name=Sheet1
