@@ -64,23 +64,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IFQORJAY
 
 [Document2]
-DocumentPath=EPM240T100C5N\SnapEDAsch.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JVHTISAB
-
-[Document3]
 DocumentPath=EPM240T100C5N\EPM240T100C5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document4]
+[Document3]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSBDWLFM
 
-[Document5]
+[Document4]
 DocumentPath=RESISTORS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPPQYBLA
 
-[Document6]
+[Document5]
 DocumentPath=FUSE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPPQYBLA
 
-[Document7]
+[Document6]
 DocumentPath=MICROCIRCUITS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOBYEQWF
 
-[Document8]
+[Document7]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -181,6 +164,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORWNVREU
+
+[Document8]
+DocumentPath=MEM.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TBCNCRLG
 
 [Configuration1]
 Name=Sources
@@ -301,7 +301,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1126,34 +1126,46 @@ ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Schlib1.SchLib
-ComponentDesignItemID3=MF
-ComponentSymbolReference3=MF
+ComponentDesignItemID3=FPGA
+ComponentSymbolReference3=FPGA
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Schlib1.SchLib
-ComponentDesignItemID4=Quartz
-ComponentSymbolReference4=Quartz
+ComponentDesignItemID4=MEM
+ComponentSymbolReference4=MEM
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Schlib1.SchLib
-ComponentDesignItemID5=RES
-ComponentSymbolReference5=RES
+ComponentDesignItemID5=MF
+ComponentSymbolReference5=MF
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Schlib1.SchLib
-ComponentDesignItemID6=STM32
-ComponentSymbolReference6=STM32
+ComponentDesignItemID6=Quartz
+ComponentSymbolReference6=Quartz
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Schlib1.SchLib
-ComponentDesignItemID7=USB
-ComponentSymbolReference7=USB
+ComponentDesignItemID7=RES
+ComponentSymbolReference7=RES
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Schlib1.SchLib
+ComponentDesignItemID8=STM32
+ComponentSymbolReference8=STM32
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Schlib1.SchLib
+ComponentDesignItemID9=USB
+ComponentSymbolReference9=USB
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1178,23 +1190,35 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CAP 0603_1608
+ModelName0=AMS1117
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=ch340g
+ModelName1=CAP 0603_1608
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=FUSE
+ModelName2=ch340g
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=LQFP-48
+ModelName3=FUSE
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=R_0805_T0.4
+ModelName4=LQFP-48
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=USB
+ModelName5=QFP50P1600X1600X120-100N
 ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=QUARTZ TEMPORARY
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=R_0805_T0.4
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=SOP80P1176X120-54N
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=USB
+ModelUpdate9=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
