@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for DDS
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -166,7 +166,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ORWNVREU
 
 [Document8]
-DocumentPath=MEM.PcbLib
+DocumentPath=PINS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -180,7 +180,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TBCNCRLG
+DocumentUniqueId=UPPQYBLA
 
 [Configuration1]
 Name=Sources
@@ -210,7 +210,7 @@ TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=1
 SCH_PrintColor=0
-PrintQuality=-4
+PrintQuality=-3
 SCH_ShowNoErc=0
 SCH_ShowParameter=0
 SCH_ShowProbes=0
@@ -229,7 +229,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for DDS
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -340,7 +340,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -407,9 +407,9 @@ OutputName10=Schematic Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.49|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A0|PaperIndex=134
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.49|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=A3|PaperIndex=8
 Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\1\Desktop\DDS\Sheet1.SchDoc
+Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc
 OutputType11=SimView Print
 OutputName11=SimView Prints
 OutputDocumentPath11=
@@ -1149,8 +1149,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Schlib1.SchLib
-ComponentDesignItemID0=FPGA
-ComponentSymbolReference0=FPGA
+ComponentDesignItemID0=PINS
+ComponentSymbolReference0=PINS
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1177,7 +1177,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=QFP50P1600X1600X120-100N
+ModelName0=PINS
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -1185,6 +1185,78 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Schlib1.SchLib
+ComponentDesignItemID0=AMS1117-3.3
+ComponentSymbolReference0=AMS1117-3.3
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Schlib1.SchLib
+ComponentDesignItemID1=CAP
+ComponentSymbolReference1=CAP
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Schlib1.SchLib
+ComponentDesignItemID2=ch340
+ComponentSymbolReference2=ch340
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Schlib1.SchLib
+ComponentDesignItemID3=DAC
+ComponentSymbolReference3=DAC
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Schlib1.SchLib
+ComponentDesignItemID4=FLASH
+ComponentSymbolReference4=FLASH
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Schlib1.SchLib
+ComponentDesignItemID5=FPGA
+ComponentSymbolReference5=FPGA
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Schlib1.SchLib
+ComponentDesignItemID6=MEM
+ComponentSymbolReference6=MEM
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Schlib1.SchLib
+ComponentDesignItemID7=MF
+ComponentSymbolReference7=MF
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Schlib1.SchLib
+ComponentDesignItemID8=Quartz
+ComponentSymbolReference8=Quartz
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Schlib1.SchLib
+ComponentDesignItemID9=RES
+ComponentSymbolReference9=RES
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Schlib1.SchLib
+ComponentDesignItemID10=STM32
+ComponentSymbolReference10=STM32
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Schlib1.SchLib
+ComponentDesignItemID11=USB
+ComponentSymbolReference11=USB
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

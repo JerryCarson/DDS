@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=D8 Old Footprint=AMS1117 New Footprint=AMS1117-3.3 GENERATED
+Add Pin To Net: Unknown Pin: Pin D6-3
+Add Pin To Net: Unknown Pin: Pin D6-4
+Add Pin To Net: Unknown Pin: Pin D6-5
+Add Pin To Net: Unknown Pin: Pin D6-6
+Add Pin To Net: Unknown Pin: Pin D6-7
+Add Pin To Net: Unknown Pin: Pin D6-8
+Add Pin To Net: Unknown Pin: Pin D6-9
+Add Pin To Net: Unknown Pin: Pin D6-10
+Add Class Member: Failed to add class member : Component D6 Обозначение при заказе
+Added Room: Name=Sheet1

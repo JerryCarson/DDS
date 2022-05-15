@@ -1,0 +1,11 @@
+Remove Pin=D6-3 From Net=D
+Remove Pin=D6-4 From Net=D
+Remove Pin=D6-5 From Net=D
+Remove Pin=D6-6 From Net=D
+Remove Pin=D6-7 From Net=D
+Remove Pin=D6-8 From Net=D
+Remove Pin=D6-9 From Net=D
+Remove Pin=D6-10 From Net=D
+Change Pin Designator/Name:  Old Designator=D4-1 Old Name=nCS New Designator =DATA New Name=2
+Change Pin Designator/Name:  Old Designator=D4-2 Old Name=DATA New Designator =DCLK New Name=6
+Change Pin Designator/Name:  Old Designator=D4-6 Old Name=DCLK New Designator =nCS New Name=1
