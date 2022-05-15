@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change component parameters: Designator = "D1" ("D1"); Footprint = "USB"; UniqueID = "\IIFKFQFO" ("\IIFKFQFO")
+Change component parameters (AddParameter): Name = "Component"; Value = "USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "No link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "No link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "CH340G GENERATED"; UniqueID = "\GMWBABDZ" ("\GMWBABDZ")
+Change component parameters (AddParameter): Name = "Component"; Value = "UART INTERFACE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "CH340G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LQFP-48"; UniqueID = "\QPJKJAUP" ("\QPJKJAUP")
+Change component parameters (AddParameter): Name = "Component"; Value = "Controller"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/stm32f446ret6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/stm32f446ret6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "FLASH"; UniqueID = "\ZDXSYKUT" ("\ZDXSYKUT")
+Change component parameters (AddParameter): Name = "Component"; Value = "FLASH Memory"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/epcs16si8n"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/epcs16si8n"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "EPCS16SI8N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "QFP50P1600X1600X120-100N"; UniqueID = "\WYQCOSCP" ("\WYQCOSCP")
+Change component parameters (AddParameter): Name = "Component"; Value = "FPGA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Intel-Altera/EPM240T100C3?qs=jblrfmjbeiFZviQiVyzREw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://eu.mouser.com/ProductDetail/Intel-Altera/EPM240T100C3?qs=jblrfmjbeiFZviQiVyzREw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "Altera II EPM240T100C3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "SOP127P600-8N"; UniqueID = "\HWZMTBOZ" ("\HWZMTBOZ")
+Change component parameters (AddParameter): Name = "Component"; Value = "Memory"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/w9812g6kh-6-tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/w9812g6kh-6-tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "W9812G6KH-6/TRAY"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "AMS1117-3.3 GENERATED"; UniqueID = "\MGVTUWBM" ("\MGVTUWBM")
+Change component parameters (AddParameter): Name = "Component"; Value = "????????????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ams1117-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/ams1117-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DAC)
+Add component (AddParameter): Name = "Component"; Value = "DAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ad9760aruz50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/ad9760aruz50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "AD9760ARUZ50"; VariantName = "[No Variations]"
+Added Component: Designator=X3(PINS)
+Added Pin To Net: NetName=D7 Pin=D4-3
+Added Pin To Net: NetName=D6 Pin=D4-4
+Added Pin To Net: NetName=D5 Pin=D4-5
+Added Pin To Net: NetName=D4 Pin=D4-6
+Added Pin To Net: NetName=D3 Pin=D4-7
+Added Pin To Net: NetName=D2 Pin=D4-8
+Added Pin To Net: NetName=D1 Pin=D4-9
+Added Pin To Net: NetName=D0 Pin=D4-10
+Added Pin To Net: NetName=GND Pin=X3-6
+Added Pin To Net: NetName=+3.3?.1 Pin=X3-9
+Added Pin To Net: NetName=GND Pin=X3-10
+Added Pin To Net: NetName=J0 Pin=D6-22
+Added Pin To Net: NetName=J0 Pin=X3-1
+Added Net: Name=J0
+Added Pin To Net: NetName=J1 Pin=D6-23
+Added Pin To Net: NetName=J1 Pin=X3-2
+Added Net: Name=J1
+Added Pin To Net: NetName=J2 Pin=D6-24
+Added Pin To Net: NetName=J2 Pin=X3-3
+Added Net: Name=J2
+Added Pin To Net: NetName=J3 Pin=D6-25
+Added Pin To Net: NetName=J3 Pin=X3-5
+Added Net: Name=J3
+Added Class: Name=J[3..0]
+Added Member To Class: ClassName=Sheet1 Member=Component D6 ??????????? ??? ??????
+Added Member To Class: ClassName=Sheet1 Member=Component X3 ??????????? ??? ??????
+Added Room: Name=Sheet1
