@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=D0 Pin=D6-66
+Removed Pin From Net: NetName=D1 Pin=D6-67
+Removed Pin From Net: NetName=D2 Pin=D6-68
+Removed Pin From Net: NetName=D3 Pin=D6-69
+Removed Pin From Net: NetName=D4 Pin=D6-70
+Removed Pin From Net: NetName=D5 Pin=D6-71
+Removed Pin From Net: NetName=D6 Pin=D6-72
+Removed Pin From Net: NetName=D7 Pin=D6-73
+Removed Pin From Net: NetName=M1 Pin=D6-74
+Removed Pin From Net: NetName=M4 Pin=D6-75
+Added Pin To Net: NetName=D2 Pin=D6-66
+Added Pin To Net: NetName=D3 Pin=D6-67
+Added Pin To Net: NetName=D4 Pin=D6-68
+Added Pin To Net: NetName=D5 Pin=D6-69
+Added Pin To Net: NetName=D6 Pin=D6-70
+Added Pin To Net: NetName=D7 Pin=D6-71
+Added Pin To Net: NetName=D0 Pin=D6-74
+Added Pin To Net: NetName=D1 Pin=D6-75
+Added Pin To Net: NetName=M1 Pin=D6-76
+Added Pin To Net: NetName=M4 Pin=D6-77
+Change Net Name : Old Net Name=B0 New Net Name=B2
+Change Net Name : Old Net Name=B1 New Net Name=B3
+Change Net Name : Old Net Name=B2 New Net Name=B4
+Change Net Name : Old Net Name=B3 New Net Name=B5
+Change Net Name : Old Net Name=B4 New Net Name=B6
+Change Net Name : Old Net Name=B5 New Net Name=B7
+Change Net Name : Old Net Name=B6 New Net Name=B8
+Change Net Name : Old Net Name=B7 New Net Name=B9
+Added Pin To Net: NetName=B0 Pin=D3-30
+Added Pin To Net: NetName=B0 Pin=D6-38
+Added Pin To Net: NetName=B0 Pin=D7-44
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=D3-29
+Added Pin To Net: NetName=B1 Pin=D6-39
+Added Pin To Net: NetName=B1 Pin=D7-42
+Added Net: Name=B1
+Added Pin To Net: NetName=D8 Pin=D4-2
+Added Pin To Net: NetName=D8 Pin=D6-72
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=D4-1
+Added Pin To Net: NetName=D9 Pin=D6-73
+Added Net: Name=D9
+Change Class Name : Old Net Name=D[7..0] New Net Name=D[9..0]
+Added Class: Name=DATA[9..0]
+Added Member To Class: ClassName=Sheet1 Member=Component D4 ??????????? ??? ??????
+Added Member To Class: ClassName=Sheet1 Member=Component D5 ??????????? ??? ??????
+Added Member To Class: ClassName=D[9..0] Member=Element[1]: D
+Added Member To Class: ClassName=D[9..0] Member=Element[0]: D
+Added Room: Name=Sheet1
