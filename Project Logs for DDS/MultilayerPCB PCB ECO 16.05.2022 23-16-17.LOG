@@ -1,0 +1,418 @@
+Added Component: Designator=C1(CAP 0603_1608)
+Added Component: Designator=C2(CAP 0603_1608)
+Added Component: Designator=C3(CAP 0603_1608)
+Added Component: Designator=C4(CAP 0603_1608)
+Added Component: Designator=C5(CAP 0603_1608)
+Added Component: Designator=C6(CAP 0603_1608)
+Added Component: Designator=C7(CAP 0603_1608)
+Added Component: Designator=C8(CAP 0603_1608)
+Added Component: Designator=C9(CAP 0603_1608)
+Added Component: Designator=C10(CAP 0603_1608)
+Added Component: Designator=C11(CAP 0603_1608)
+Added Component: Designator=C12(CAP 0603_1608)
+Added Component: Designator=C13(CAP 0603_1608)
+Added Component: Designator=C14(CAP 0603_1608)
+Added Component: Designator=C15(CAP 0603_1608)
+Added Component: Designator=C16(CAP 0603_1608)
+Added Component: Designator=C17(CAP 0603_1608)
+Added Component: Designator=C18(CAP 0603_1608)
+Added Component: Designator=C19(CAP 0603_1608)
+Added Component: Designator=C20(CAP 0603_1608)
+Added Component: Designator=C21(CAP 0603_1608)
+Added Component: Designator=C22(CAP 0603_1608)
+Added Component: Designator=C23(CAP 0603_1608)
+Added Component: Designator=C24(CAP 0603_1608)
+Added Component: Designator=C25(CAP 0603_1608)
+Added Component: Designator=C26(CAP 0603_1608)
+Added Component: Designator=C27(CAP 0603_1608)
+Added Component: Designator=D1(USB)
+Add component (AddParameter): Name = "Component"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "No link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "No link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "Unknown"; VariantName = "[No Variations]"
+Added Component: Designator=D2(CH340G GENERATED)
+Add component (AddParameter): Name = "Component"; Value = "UART INTERFACE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "CH340G"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DAC)
+Add component (AddParameter): Name = "Component"; Value = "DAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ad9760aruz50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/ad9760aruz50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "AD9760ARUZ50"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LQFP-48)
+Add component (AddParameter): Name = "Component"; Value = "Controller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/stm32f446ret6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/stm32f446ret6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Added Component: Designator=D5(FLASH)
+Add component (AddParameter): Name = "Component"; Value = "FLASH Memory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/epcs16si8n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/epcs16si8n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "EPCS16SI8N"; VariantName = "[No Variations]"
+Added Component: Designator=D6(QFP50P1600X1600X120-100N)
+Add component (AddParameter): Name = "Component"; Value = "FPGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/ProductDetail/Intel-Altera/EPM240T100C3?qs=jblrfmjbeiFZviQiVyzREw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://eu.mouser.com/ProductDetail/Intel-Altera/EPM240T100C3?qs=jblrfmjbeiFZviQiVyzREw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "Altera II EPM240T100C3"; VariantName = "[No Variations]"
+Added Component: Designator=D8(AMS1117-3.3 GENERATED)
+Add component (AddParameter): Name = "Component"; Value = "Стабилизатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ams1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/ams1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SOP127P600-8N)
+Add component (AddParameter): Name = "Component"; Value = "Memory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/w9812g6kh-6-tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/w9812g6kh-6-tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "W9812G6KH-6/TRAY"; VariantName = "[No Variations]"
+Added Component: Designator=FU1(FUSE)
+Added Component: Designator=R1(R_0805_T0.4)
+Added Component: Designator=R2(R_0805_T0.4)
+Added Component: Designator=R3(R_0805_T0.4)
+Added Component: Designator=R4(R_0805_T0.4)
+Added Component: Designator=R5(R_0805_T0.4)
+Added Component: Designator=R6(R_0805_T0.4)
+Added Component: Designator=X1(QUARTZ TEMPORARY)
+Added Component: Designator=X2(QUARTZ TEMPORARY)
+Added Component: Designator=X3(PINS)
+Added Pin To Net: NetName=+3.3В.1 Pin=C3-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C4-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C6-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C9-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C10-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C12-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C13-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C15-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C16-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C17-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C18-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C19-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C20-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C21-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C22-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C23-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C25-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C26-2
+Added Pin To Net: NetName=+3.3В.1 Pin=C27-2
+Added Pin To Net: NetName=+3.3В.1 Pin=D2-4
+Added Pin To Net: NetName=+3.3В.1 Pin=D2-16
+Added Pin To Net: NetName=+3.3В.1 Pin=D3-24
+Added Pin To Net: NetName=+3.3В.1 Pin=D4-37
+Added Pin To Net: NetName=+3.3В.1 Pin=D6-9
+Added Pin To Net: NetName=+3.3В.1 Pin=D6-13
+Added Pin To Net: NetName=+3.3В.1 Pin=D6-31
+Added Pin To Net: NetName=+3.3В.1 Pin=D6-45
+Added Pin To Net: NetName=+3.3В.1 Pin=D6-59
+Added Pin To Net: NetName=+3.3В.1 Pin=D6-63
+Added Pin To Net: NetName=+3.3В.1 Pin=D8-2
+Added Pin To Net: NetName=+3.3В.1 Pin=D8-4
+Added Pin To Net: NetName=+3.3В.1 Pin=D9-1
+Added Pin To Net: NetName=+3.3В.1 Pin=D9-14
+Added Pin To Net: NetName=+3.3В.1 Pin=D9-27
+Added Pin To Net: NetName=+3.3В.1 Pin=R1-2
+Added Pin To Net: NetName=+3.3В.1 Pin=R2-2
+Added Pin To Net: NetName=+3.3В.1 Pin=R3-1
+Added Pin To Net: NetName=+3.3В.1 Pin=X3-9
+Added Net: Name=+3.3В.1
+Added Pin To Net: NetName=+5В.1 Pin=C24-2
+Added Pin To Net: NetName=+5В.1 Pin=D8-3
+Added Pin To Net: NetName=+5В.1 Pin=FU1-2
+Added Net: Name=+5В.1
+Added Pin To Net: NetName=A0 Pin=D4-45
+Added Pin To Net: NetName=A0 Pin=D6-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=D4-43
+Added Pin To Net: NetName=A1 Pin=D6-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=D4-42
+Added Pin To Net: NetName=A2 Pin=D6-3
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=D4-41
+Added Pin To Net: NetName=A3 Pin=D6-4
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=D4-40
+Added Pin To Net: NetName=A4 Pin=D6-5
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=D4-39
+Added Pin To Net: NetName=A5 Pin=D6-6
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=D4-20
+Added Pin To Net: NetName=A6 Pin=D6-20
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=D4-19
+Added Pin To Net: NetName=A7 Pin=D6-19
+Added Net: Name=A7
+Added Pin To Net: NetName=A8 Pin=D4-18
+Added Pin To Net: NetName=A8 Pin=D6-18
+Added Net: Name=A8
+Added Pin To Net: NetName=A9 Pin=D4-22
+Added Pin To Net: NetName=A9 Pin=D6-26
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=D4-21
+Added Pin To Net: NetName=A10 Pin=D6-21
+Added Net: Name=A10
+Added Pin To Net: NetName=A11 Pin=D4-25
+Added Pin To Net: NetName=A11 Pin=D6-27
+Added Net: Name=A11
+Added Pin To Net: NetName=A12 Pin=D4-26
+Added Pin To Net: NetName=A12 Pin=D6-28
+Added Net: Name=A12
+Added Pin To Net: NetName=B0 Pin=D4-30
+Added Pin To Net: NetName=B0 Pin=D6-38
+Added Pin To Net: NetName=B0 Pin=D9-44
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=D4-29
+Added Pin To Net: NetName=B1 Pin=D6-39
+Added Pin To Net: NetName=B1 Pin=D9-42
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=D4-17
+Added Pin To Net: NetName=B2 Pin=D6-17
+Added Pin To Net: NetName=B2 Pin=D9-13
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=D4-16
+Added Pin To Net: NetName=B3 Pin=D6-16
+Added Pin To Net: NetName=B3 Pin=D9-11
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=D4-15
+Added Pin To Net: NetName=B4 Pin=D6-15
+Added Pin To Net: NetName=B4 Pin=D9-10
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=D4-14
+Added Pin To Net: NetName=B5 Pin=D6-8
+Added Pin To Net: NetName=B5 Pin=D9-8
+Added Net: Name=B5
+Added Pin To Net: NetName=B6 Pin=D4-13
+Added Pin To Net: NetName=B6 Pin=D6-7
+Added Pin To Net: NetName=B6 Pin=D9-7
+Added Net: Name=B6
+Added Pin To Net: NetName=B7 Pin=D4-12
+Added Pin To Net: NetName=B7 Pin=D6-29
+Added Pin To Net: NetName=B7 Pin=D9-5
+Added Net: Name=B7
+Added Pin To Net: NetName=B8 Pin=D4-11
+Added Pin To Net: NetName=B8 Pin=D6-30
+Added Pin To Net: NetName=B8 Pin=D9-4
+Added Net: Name=B8
+Added Pin To Net: NetName=B9 Pin=D4-10
+Added Pin To Net: NetName=B9 Pin=D6-33
+Added Pin To Net: NetName=B9 Pin=D9-2
+Added Net: Name=B9
+Added Pin To Net: NetName=C0 Pin=D6-47
+Added Pin To Net: NetName=C0 Pin=D9-23
+Added Net: Name=C0
+Added Pin To Net: NetName=C1 Pin=D6-51
+Added Pin To Net: NetName=C1 Pin=D9-24
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=D6-52
+Added Pin To Net: NetName=C2 Pin=D9-25
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=D6-53
+Added Pin To Net: NetName=C3 Pin=D9-26
+Added Net: Name=C3
+Added Pin To Net: NetName=C4 Pin=D6-54
+Added Pin To Net: NetName=C4 Pin=D9-29
+Added Net: Name=C4
+Added Pin To Net: NetName=C5 Pin=D6-55
+Added Pin To Net: NetName=C5 Pin=D9-30
+Added Net: Name=C5
+Added Pin To Net: NetName=C6 Pin=D6-56
+Added Pin To Net: NetName=C6 Pin=D9-31
+Added Net: Name=C6
+Added Pin To Net: NetName=C7 Pin=D6-57
+Added Pin To Net: NetName=C7 Pin=D9-32
+Added Net: Name=C7
+Added Pin To Net: NetName=C8 Pin=D6-58
+Added Pin To Net: NetName=C8 Pin=D9-33
+Added Net: Name=C8
+Added Pin To Net: NetName=C9 Pin=D6-61
+Added Pin To Net: NetName=C9 Pin=D9-22
+Added Net: Name=C9
+Added Pin To Net: NetName=clk.1 Pin=D3-28
+Added Pin To Net: NetName=clk.1 Pin=D6-12
+Added Net: Name=clk.1
+Added Pin To Net: NetName=D0 Pin=D3-10
+Added Pin To Net: NetName=D0 Pin=D6-66
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=D3-9
+Added Pin To Net: NetName=D1 Pin=D6-67
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=D3-2
+Added Pin To Net: NetName=D2 Pin=D6-74
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=D3-1
+Added Pin To Net: NetName=D3 Pin=D6-75
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=D3-8
+Added Pin To Net: NetName=D4 Pin=D6-68
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=D3-7
+Added Pin To Net: NetName=D5 Pin=D6-69
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=D3-6
+Added Pin To Net: NetName=D6 Pin=D6-70
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=D3-5
+Added Pin To Net: NetName=D7 Pin=D6-71
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=D3-4
+Added Pin To Net: NetName=D8 Pin=D6-72
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=D3-3
+Added Pin To Net: NetName=D9 Pin=D6-73
+Added Net: Name=D9
+Added Pin To Net: NetName=F0 Pin=D5-5
+Added Pin To Net: NetName=F0 Pin=D6-34
+Added Net: Name=F0
+Added Pin To Net: NetName=F1 Pin=D5-6
+Added Pin To Net: NetName=F1 Pin=D6-35
+Added Net: Name=F1
+Added Pin To Net: NetName=F2 Pin=D5-2
+Added Pin To Net: NetName=F2 Pin=D6-36
+Added Net: Name=F2
+Added Pin To Net: NetName=F3 Pin=D5-1
+Added Pin To Net: NetName=F3 Pin=D6-37
+Added Net: Name=F3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-20
+Added Pin To Net: NetName=GND Pin=D4-34
+Added Pin To Net: NetName=GND Pin=D6-10
+Added Pin To Net: NetName=GND Pin=D6-11
+Added Pin To Net: NetName=GND Pin=D6-32
+Added Pin To Net: NetName=GND Pin=D6-46
+Added Pin To Net: NetName=GND Pin=D6-60
+Added Pin To Net: NetName=GND Pin=D6-65
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D9-28
+Added Pin To Net: NetName=GND Pin=D9-41
+Added Pin To Net: NetName=GND Pin=D9-54
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=X3-6
+Added Pin To Net: NetName=GND Pin=X3-10
+Added Net: Name=GND
+Added Pin To Net: NetName=J0 Pin=D6-22
+Added Pin To Net: NetName=J0 Pin=X3-1
+Added Net: Name=J0
+Added Pin To Net: NetName=J1 Pin=D6-23
+Added Pin To Net: NetName=J1 Pin=X3-2
+Added Net: Name=J1
+Added Pin To Net: NetName=J2 Pin=D6-24
+Added Pin To Net: NetName=J2 Pin=X3-3
+Added Net: Name=J2
+Added Pin To Net: NetName=J3 Pin=D6-25
+Added Pin To Net: NetName=J3 Pin=X3-5
+Added Net: Name=J3
+Added Pin To Net: NetName=M0 Pin=D6-48
+Added Pin To Net: NetName=M0 Pin=D9-20
+Added Net: Name=M0
+Added Pin To Net: NetName=M1 Pin=D6-76
+Added Pin To Net: NetName=M1 Pin=D9-18
+Added Net: Name=M1
+Added Pin To Net: NetName=M2 Pin=D6-49
+Added Pin To Net: NetName=M2 Pin=D9-17
+Added Net: Name=M2
+Added Pin To Net: NetName=M3 Pin=D6-50
+Added Pin To Net: NetName=M3 Pin=D9-19
+Added Net: Name=M3
+Added Pin To Net: NetName=M4 Pin=D6-77
+Added Pin To Net: NetName=M4 Pin=D9-16
+Added Net: Name=M4
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-7
+Added Pin To Net: NetName=NetC1_1 Pin=X1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D2-8
+Added Pin To Net: NetName=NetC2_1 Pin=X1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=D3-16
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=D3-19
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=D3-23
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=D3-17
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=D4-5
+Added Pin To Net: NetName=NetC11_1 Pin=X2-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=D4-6
+Added Pin To Net: NetName=NetC14_1 Pin=X2-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=FU1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-6
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=D2-5
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD3_18 Pin=D3-18
+Added Pin To Net: NetName=NetD3_18 Pin=R4-1
+Added Net: Name=NetD3_18
+Added Pin To Net: NetName=NetD3_21 Pin=D3-21
+Added Pin To Net: NetName=NetD3_21 Pin=R5-1
+Added Net: Name=NetD3_21
+Added Pin To Net: NetName=NetD3_22 Pin=D3-22
+Added Pin To Net: NetName=NetD3_22 Pin=R6-1
+Added Net: Name=NetD3_22
+Added Pin To Net: NetName=RX.1 Pin=D2-3
+Added Pin To Net: NetName=RX.1 Pin=D4-32
+Added Pin To Net: NetName=RX.1 Pin=R2-1
+Added Net: Name=RX.1
+Added Pin To Net: NetName=TX.1 Pin=D2-2
+Added Pin To Net: NetName=TX.1 Pin=D4-31
+Added Pin To Net: NetName=TX.1 Pin=R1-1
+Added Net: Name=TX.1
+Added Class: Name=Sheet1
+Added Class: Name=A[12..0]
+Added Class: Name=C[9..0]
+Added Class: Name=D[9..0]
+Added Class: Name=DATA[9..0]
+Added Class: Name=J[3..0]
+Added Class: Name=M[4..0]
+Added Room: Name=Sheet1
