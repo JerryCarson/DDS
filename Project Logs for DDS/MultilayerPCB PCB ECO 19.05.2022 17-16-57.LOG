@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=A9 Pin=D6-26
+Removed Pin From Net: NetName=A12 Pin=D6-28
+Added Pin To Net: NetName=A12 Pin=D6-26
+Added Pin To Net: NetName=A9 Pin=D6-28
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D7-3
+Add Pin To Net: Unknown Pin: Pin D7-4
+Add Class Member: Failed to add class member : Component D7 Обозначение при заказе
+Added Room: Name=Sheet1
