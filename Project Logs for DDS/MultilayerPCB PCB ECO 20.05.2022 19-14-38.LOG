@@ -1,0 +1,19 @@
+Added Component: Designator=D1(PCBComponent_1)
+Add component (AddParameter): Name = "Component"; Value = "Resonator for FPGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "Undefined"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=clk.1 Pin=D1-3
+Added Pin To Net: NetName=+3.3В.1 Pin=D1-4
+Added Member To Class: ClassName=Sheet1 Member=Component C9 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C10 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C14 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C15 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C16 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C18 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C20 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C21 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C22 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component C23 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Обозначение при заказе
+Added Room: Name=Sheet1
