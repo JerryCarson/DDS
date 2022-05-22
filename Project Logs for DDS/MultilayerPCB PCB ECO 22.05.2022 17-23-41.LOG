@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=B0 Pin=DD4-30
+Removed Pin From Net: NetName=TX.1 Pin=DD4-31
+Removed Pin From Net: NetName=RX.1 Pin=DD4-32
+Change Component Footprint: Designator=D1 Old Footprint=PCBComponent_1 New Footprint=CAC-508P730X490-4N
+Added Pin To Net: NetName=TX.1 Pin=DD4-30
+Added Pin To Net: NetName=RX.1 Pin=DD4-31
+Added Pin To Net: NetName=B0 Pin=DD4-32
+Added Room: Name=Sheet1
