@@ -1,0 +1,7 @@
+Added Component: Designator=X2(4PIN)
+Added Pin To Net: NetName=+3.3В.1 Pin=X2-1
+Added Pin To Net: NetName=14.1 Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=13.1 Pin=X2-4
+Added Member To Class: ClassName=Sheet1 Member=Component X2 Обозначение при заказе
+Added Room: Name=Sheet1
