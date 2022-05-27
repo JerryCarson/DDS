@@ -1,0 +1,9 @@
+Added Component: Designator=XW1(UHF)
+Add component (AddParameter): Name = "Component"; Value = "СВЧ разъем"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls1-sma002-b-sma-jr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.chipdip.ru/product/kls1-sma002-b-sma-jr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "KLS1-SMA002-B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetT1_5 Pin=XW1-1
+Added Member To Class: ClassName=Sheet1 Member=Component XW1 Обозначение при заказе
+Added Room: Name=Sheet1

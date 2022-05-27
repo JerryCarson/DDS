@@ -1,0 +1,15 @@
+Added Component: Designator=ZQ1(ECN-7U12000MAB143ZA3)
+Add component (AddParameter): Name = "Component"; Value = "Quartz resonator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ2(ECN-7U12000MAB143ZA3)
+Add component (AddParameter): Name = "Component"; Value = "Quartz resonator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=ZQ1-1
+Added Pin To Net: NetName=NetC2_1 Pin=ZQ1-2
+Added Pin To Net: NetName=NetC13_1 Pin=ZQ2-1
+Added Pin To Net: NetName=NetC16_1 Pin=ZQ2-2
+Added Member To Class: ClassName=Sheet1 Member=Component ZQ1 Обозначение при заказе
+Added Member To Class: ClassName=Sheet1 Member=Component ZQ2 Обозначение при заказе
+Added Room: Name=Sheet1
