@@ -1,0 +1,53 @@
+Added Parameter Component=Transformer to Part T1
+Added Parameter ComponentLink1Description=New link to Part T1
+Added Parameter ComponentLink1URL=https://www.chipdip.ru/product/alt3232m-151-t001-2 to Part T1
+Added Parameter Link=https://www.chipdip.ru/product/alt3232m-151-t001-2 to Part T1
+Added Parameter Model=ALT3232M-151-T001 to Part T1
+Replace Symbol from C1 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C2 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C3 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C4 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C5 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C6 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C7 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C8 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C9 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C10 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C11 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C12 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C13 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C14 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C15 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C16 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C17 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C18 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C19 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C20 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C21 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C22 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C23 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C24 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C25 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C26 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from C27 CAP in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with CAP from Schlib1.SchLib
+Replace Symbol from DA1 AMS1117-3.3 in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with AMS1117-3.3 from Schlib1.SchLib
+Replace Symbol from DD1 USB in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with USB from Schlib1.SchLib
+Replace Symbol from DD2 DAC in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with DAC from Schlib1.SchLib
+Replace Symbol from DD3 ch340 in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with ch340 from Schlib1.SchLib
+Replace Symbol from DD4 FLASH in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with FLASH from Schlib1.SchLib
+Replace Symbol from DD5 STM32 in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with STM32 from Schlib1.SchLib
+Replace Symbol from DD6 FPGA in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with FPGA from Schlib1.SchLib
+Replace Symbol from DD7 MEM in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with MEM from Schlib1.SchLib
+Replace Symbol from G1 fpRESONATOR in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with fpRESONATOR from Schlib1.SchLib
+Replace Symbol from R1 RES in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with RES from Schlib1.SchLib
+Replace Symbol from R2 RES in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with RES from Schlib1.SchLib
+Replace Symbol from R3 RES in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with RES from Schlib1.SchLib
+Replace Symbol from R4 RES in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with RES from Schlib1.SchLib
+Replace Symbol from R5 RES in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with RES from Schlib1.SchLib
+Replace Symbol from R6 RES in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with RES from Schlib1.SchLib
+Replace Symbol from T1 transformer in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with transformer from Schlib1.SchLib
+Replace Symbol from XP1 4PINS in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with 4PINS from Schlib1.SchLib
+Replace Symbol from XP2 10PINS in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with 10PINS from Schlib1.SchLib
+Replace Symbol from XW1 UHF PORT in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with UHF PORT from Schlib1.SchLib
+Replace Symbol from ZQ1 Quartz in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with Quartz from Schlib1.SchLib
+Replace Symbol from ZQ2 Quartz in C:\Users\Jerry\Desktop\DDS\Sheet1.SchDoc with Quartz from Schlib1.SchLib
